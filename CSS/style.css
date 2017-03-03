@@ -12,3 +12,12 @@ html {
     font-weight: 300;
     text-rendering: optimizelegibility;
 }
+
+.center {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.bg {
+    background-image: url('/DATA/hero.jpg');
+}
